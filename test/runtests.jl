@@ -8,3 +8,5 @@ using Base.Test
 @test ProjectEuler.problem005() == 232792560
 @test ProjectEuler.problem006() == 25164150
 @test ProjectEuler.problem007() == 104743
+@test ProjectEuler.problem008() == 23514624000
+@test ProjectEuler.problem009() == 31875000
